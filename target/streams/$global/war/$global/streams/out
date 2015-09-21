@@ -1,0 +1,62 @@
+[0m[[0mdebug[0m] [0mprojectJars = Attributed(/home/scriptuit/Play/PlayProjects/modern-web-template/target/scala-2.11/modern-web-template_2.11-0.1-SNAPSHOT.jar), Attributed(/home/scriptuit/Play/PlayProjects/modern-web-template/target/modern-web-template-0.1-SNAPSHOT-assets.jar), projectBinJars = Attributed(/home/scriptuit/Play/PlayProjects/modern-web-template/target/scala-2.11/modern-web-template_2.11-0.1-SNAPSHOT.jar), projectAssets = Attributed(/home/scriptuit/Play/PlayProjects/modern-web-template/target/modern-web-template-0.1-SNAPSHOT-assets.jar)[0m
+[0m[[0minfo[0m] [0mBuild WAR package for servlet container: 3.0[0m
+[0m[[0mdebug[0m] [0mplay2-war-core-common found in dependencies![0m
+[0m[[0minfo[0m] [0mPackaging /home/scriptuit/Play/PlayProjects/modern-web-template/target/modern-web-template-0.1-SNAPSHOT.war ...[0m
+[0m[[0mdebug[0m] [0mIgnoring dependency javax.servlet -> servlet-api[0m
+[0m[[0mdebug[0m] [0mIgnoring dependency javax.servlet -> javax.servlet-api[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> WEB-INF/lib/org.scala-lang.scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.0.2.jar -> WEB-INF/lib/com.typesafe.play.twirl-api_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.1.jar -> WEB-INF/lib/org.apache.commons.commons-lang3-3.1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.9.jar -> WEB-INF/lib/com.typesafe.play.play_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.3.9.jar -> WEB-INF/lib/com.typesafe.play.build-link-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.3.9.jar -> WEB-INF/lib/com.typesafe.play.play-exceptions-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.javassist/javassist/bundles/javassist-3.18.2-GA.jar -> WEB-INF/lib/org.javassist.javassist-3.18.2-GA.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.3.9.jar -> WEB-INF/lib/com.typesafe.play.play-iteratees_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar -> WEB-INF/lib/org.scala-stm.scala-stm_2.11-0.7.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> WEB-INF/lib/com.typesafe.config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.9.jar -> WEB-INF/lib/com.typesafe.play.play-json_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.3.9.jar -> WEB-INF/lib/com.typesafe.play.play-functional_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.3.9.jar -> WEB-INF/lib/com.typesafe.play.play-datacommons_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar -> WEB-INF/lib/joda-time.joda-time-2.3.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.6.jar -> WEB-INF/lib/org.joda.joda-convert-1.6.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.3.2.jar -> WEB-INF/lib/com.fasterxml.jackson.core.jackson-annotations-2.3.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.3.2.jar -> WEB-INF/lib/com.fasterxml.jackson.core.jackson-core-2.3.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.3.2.jar -> WEB-INF/lib/com.fasterxml.jackson.core.jackson-databind-2.3.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/io.netty/netty/bundles/netty-3.9.8.Final.jar -> WEB-INF/lib/io.netty.netty-3.9.8.Final.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.netty/netty-http-pipelining/jars/netty-http-pipelining-1.1.2.jar -> WEB-INF/lib/com.typesafe.netty.netty-http-pipelining-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.6.jar -> WEB-INF/lib/org.slf4j.jul-to-slf4j-1.7.6.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.6.jar -> WEB-INF/lib/org.slf4j.jcl-over-slf4j-1.7.6.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.1.1.jar -> WEB-INF/lib/ch.qos.logback.logback-core-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.1.1.jar -> WEB-INF/lib/ch.qos.logback.logback-classic-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.4.jar -> WEB-INF/lib/com.typesafe.akka.akka-slf4j_2.11-2.3.4.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.9.jar -> WEB-INF/lib/commons-codec.commons-codec-1.9.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar -> WEB-INF/lib/xerces.xercesImpl-2.11.0.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar -> WEB-INF/lib/xml-apis.xml-apis-1.4.01.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar -> WEB-INF/lib/javax.transaction.jta-1.1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.github.play2war/play2-war-core-servlet30_2.11/jars/play2-war-core-servlet30_2.11-1.3-beta3.jar -> WEB-INF/lib/com.github.play2war.play2-war-core-servlet30_2.11-1.3-beta3.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.github.play2war/play2-war-core-common_2.11/jars/play2-war-core-common_2.11-1.3-beta3.jar -> WEB-INF/lib/com.github.play2war.play2-war-core-common_2.11-1.3-beta3.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.google.inject/guice/jars/guice-4.0.jar -> WEB-INF/lib/com.google.inject.guice-4.0.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar -> WEB-INF/lib/javax.inject.javax.inject-1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar -> WEB-INF/lib/aopalliance.aopalliance-1.0.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.google.guava/guava/bundles/guava-16.0.1.jar -> WEB-INF/lib/com.google.guava.guava-16.0.1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.reactivemongo/play2-reactivemongo_2.11/jars/play2-reactivemongo_2.11-0.10.5.0.akka23.jar -> WEB-INF/lib/org.reactivemongo.play2-reactivemongo_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.10.5.0.akka23.jar -> WEB-INF/lib/org.reactivemongo.reactivemongo_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.reactivemongo/reactivemongo-bson-macros_2.11/jars/reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar -> WEB-INF/lib/org.reactivemongo.reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.2.jar -> WEB-INF/lib/org.scala-lang.scala-compiler-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar -> WEB-INF/lib/org.scala-lang.scala-reflect-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar -> WEB-INF/lib/org.scala-lang.modules.scala-xml_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar -> WEB-INF/lib/org.scala-lang.modules.scala-parser-combinators_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.10.5.0.akka23.jar -> WEB-INF/lib/org.reactivemongo.reactivemongo-bson_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar -> WEB-INF/lib/com.typesafe.akka.akka-actor_2.11-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.apache.logging.log4j/log4j-api/jars/log4j-api-2.0.2.jar -> WEB-INF/lib/org.apache.logging.log4j.log4j-api-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.apache.logging.log4j/log4j-core/jars/log4j-core-2.0.2.jar -> WEB-INF/lib/org.apache.logging.log4j.log4j-core-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.apache.logging.log4j/log4j-to-slf4j/jars/log4j-to-slf4j-2.0.2.jar -> WEB-INF/lib/org.apache.logging.log4j.log4j-to-slf4j-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.7.jar -> WEB-INF/lib/org.slf4j.slf4j-api-1.7.7.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.webjars/bootstrap/jars/bootstrap-3.3.4.jar -> WEB-INF/lib/org.webjars.bootstrap-3.3.4.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.webjars/jquery/jars/jquery-1.11.1.jar -> WEB-INF/lib/org.webjars.jquery-1.11.1.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.webjars/angularjs/jars/angularjs-1.3.15.jar -> WEB-INF/lib/org.webjars.angularjs-1.3.15.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/.ivy2/cache/org.webjars/angular-ui-bootstrap/jars/angular-ui-bootstrap-0.13.0.jar -> WEB-INF/lib/org.webjars.angular-ui-bootstrap-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/Play/PlayProjects/modern-web-template/target/scala-2.11/modern-web-template_2.11-0.1-SNAPSHOT.jar -> WEB-INF/lib/modern-web-template_2.11-0.1-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0mEmbedding file /home/scriptuit/Play/PlayProjects/modern-web-template/target/modern-web-template-0.1-SNAPSHOT-assets.jar -> WEB-INF/lib/modern-web-template-0.1-SNAPSHOT-assets.jar[0m
+[0m[[0mdebug[0m] [0mWebapp resources directory: /home/scriptuit/Play/PlayProjects/modern-web-template/war[0m
+[0m[[0minfo[0m] [0mPackaging done.[0m
