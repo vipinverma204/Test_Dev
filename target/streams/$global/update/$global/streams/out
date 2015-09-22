@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.6 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.6 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@95fde3c[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d9d2c7f[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.6[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.6 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.6] org.scala-lang#scala-library;2.11.6[0m
@@ -6891,7 +6891,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.3.8!akka-testkit_2.11.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 13462ms :: artifacts dl 236ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 5797ms :: artifacts dl 156ms[0m
 [0m[[0mdebug[0m] [0m	report for modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT compile produced in /home/scriptuit/Play/PlayProjects/modern-web-template/target/resolution-cache/reports/modern-web-template-modern-web-template_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT runtime produced in /home/scriptuit/Play/PlayProjects/modern-web-template/target/resolution-cache/reports/modern-web-template-modern-web-template_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT test produced in /home/scriptuit/Play/PlayProjects/modern-web-template/target/resolution-cache/reports/modern-web-template-modern-web-template_2.11-test.xml[0m
@@ -6906,5 +6906,5 @@
 [0m[[0mdebug[0m] [0m	report for modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT pom produced in /home/scriptuit/Play/PlayProjects/modern-web-template/target/resolution-cache/reports/modern-web-template-modern-web-template_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT scala-tool produced in /home/scriptuit/Play/PlayProjects/modern-web-template/target/resolution-cache/reports/modern-web-template-modern-web-template_2.11-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for modern-web-template#modern-web-template_2.11;0.1-SNAPSHOT fork-run produced in /home/scriptuit/Play/PlayProjects/modern-web-template/target/resolution-cache/reports/modern-web-template-modern-web-template_2.11-fork-run.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (13462ms resolve - 236ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (5797ms resolve - 156ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

@@ -30,4 +30,5 @@ libraryDependencies ++= Seq(
   "org.webjars" % "angular-ui-bootstrap" % "0.13.0",
   "org.mockito" % "mockito-core" % "1.10.19" % "test")
 
+
 fork in run := true

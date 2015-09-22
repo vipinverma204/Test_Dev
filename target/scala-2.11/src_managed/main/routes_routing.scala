@@ -1,6 +1,6 @@
 // @SOURCE:/home/scriptuit/Play/PlayProjects/modern-web-template/conf/routes
 // @HASH:e204af193c07eab974a36f46de5de46d84136637
-// @DATE:Wed Sep 09 15:04:16 IST 2015
+// @DATE:Tue Sep 22 12:00:46 IST 2015
 
 
 import scala.language.reflectiveCalls
